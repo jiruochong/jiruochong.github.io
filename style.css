@@ -473,13 +473,27 @@ body,html{
 	top:0;
 }
 
-.thank-text{
+/*.thank-text{
 	float:left;
 	text-align:center;
-	/*font-family: 'Pacifico', cursive*/;
+	font-family: 'Pacifico', cursive;
     font-size: 20px;
 	height:190px;
 	line-height:190px;
+	-webkit-font-smoothing: antialiased;
+    -moz-osx-font-smoothing: grayscale;
+	color:#B3B3B3;
+	font-weight:600;
+	width:100%;
+}*/
+
+.thank-text{
+	float:left;
+	text-align:center;
+	/*font-family: 'Pacifico', cursive;*/
+    font-size: 20px;
+	height:50%;
+	line-height:150%;
 	-webkit-font-smoothing: antialiased;
     -moz-osx-font-smoothing: grayscale;
 	color:#B3B3B3;
