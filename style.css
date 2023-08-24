@@ -453,7 +453,7 @@ body,html{
 	width:100%;
 	height:190px;
 	background-color:#F2F2F2;
-	margin-top:40px;
+	margin-top:110px;
 }
 
 #wrapper-oldnew{
@@ -492,7 +492,7 @@ body,html{
 	text-align:center;
 	/*font-family: 'Pacifico', cursive;*/
     font-size: 20px;
-	height:50%;
+	height:100%;
 	line-height:150%;
 	-webkit-font-smoothing: antialiased;
     -moz-osx-font-smoothing: grayscale;
