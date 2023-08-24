@@ -491,7 +491,7 @@ body,html{
 	float:left;
 	text-align:center;
 	/*font-family: 'Pacifico', cursive;*/
-    font-size: 20px;
+    font-size:120%;
 	height:100%;
 	line-height:150%;
 	-webkit-font-smoothing: antialiased;
