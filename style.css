@@ -453,8 +453,8 @@ body,html{
 	width:100%;
 	height:auto;
 	background-color:#F2F2F2;
-	margin-top:40px;
-	margin-bottom:40px;
+	margin-top:30px;
+	margin-bottom:30px;
 }
 
 #wrapper-oldnew{
@@ -495,7 +495,7 @@ body,html{
 	/*font-family: 'Pacifico', cursive;*/
     font-size:20px;
 	height:100%;
-	line-height:150%;
+	line-height:120%;
 	-webkit-font-smoothing: antialiased;
     -moz-osx-font-smoothing: grayscale;
 	color:#B3B3B3;
@@ -693,7 +693,7 @@ body,html{
 
 .linkin:hover,.google:hover,.facebook:hover,.dribbble:hover{color:#CCC;transform: scale(1.2);}
 */
-.youtube,.bilibili,.behance,.padlet{
+.youtube,.bilibili,.behance,.linkedin{
     -webkit-font-smoothing: antialiased;
     -moz-osx-font-smoothing: grayscale;
     text-align:right;
@@ -709,9 +709,9 @@ body,html{
     opacity:1;
 }
 
-.youtube,.bilibili,.behance,.padlet{padding-right:12px;}
+.youtube,.bilibili,.behance,.linkedin{padding-right:12px;}
 
-.youtube:hover,.bilibili:hover,.behance:hover,.padlet:hover{color:#CCC;transform: scale(1.2);}
+.youtube:hover,.bilibili:hover,.behance:hover,.linkedin:hover{color:#CCC;transform: scale(1.2);}
 /*----------------------------*/
 /* RWD !important */
 /*----------------------------*/
@@ -852,7 +852,7 @@ body,html{
 	width:100%;
 }
 .thank-text{
-    font-size: 50px;
+    font-size: 20px;
 }
 }
 /* Mobile phones (iphone4/5)*/
