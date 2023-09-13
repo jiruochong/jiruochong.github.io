@@ -322,6 +322,13 @@ body,html{
 	margin-top:5%;
 }
 
+.work figure a video {
+    height: 90%;
+    width: 90%;
+	margin-left:5%;
+	margin-top:5%;
+}
+
 .work figure dl {
     opacity: 0;
     position: absolute;
