@@ -1,0 +1,191 @@
+sup {
+	vertical-align: baseline;
+	position: relative;
+	top: -0.4em;
+}
+sub {
+	vertical-align: baseline;
+	position: relative;
+	top: 0.4em;
+}
+a:link {text-decoration:none;}
+a:visited {text-decoration:none;}
+@media screen and (min-device-pixel-ratio:0), (-webkit-min-device-pixel-ratio:0), (min--moz-device-pixel-ratio: 0) {.stl_view{ font-size:10em; transform:scale(0.1); -moz-transform:scale(0.1); -webkit-transform:scale(0.1); -moz-transform-origin:top left; -webkit-transform-origin:top left; } }
+.layer { }.ie { font-size: 1pt; }
+.ie body { font-size: 12em; }
+@media print{.stl_view {font-size:1em; transform:scale(1);}}
+.grlink { position:relative;width:100%;height:100%;z-index:1000000; }
+.stl_01 {
+	position: absolute;
+	white-space: nowrap;
+}
+.stl_02 {
+	font-size: 1em;
+	line-height: 0.0em;
+	width: 71.5em;
+	height: 51em;
+	border-style: none;
+	display: block;
+	margin: 0em;
+}
+
+@supports(-ms-ime-align:auto) { .stl_02 {overflow: hidden;}}
+.stl_03 {
+	position: relative;
+}
+.stl_04 {
+	position: absolute;
+	left: 0em;
+	top: 0em;
+}
+.stl_05 {
+	position: relative;
+	width: 71.5em;
+}
+.stl_06 {
+	height: 5.1em;
+}
+.ie .stl_06 {
+	height: 51em;
+}
+@font-face {
+	font-family:"TEGMKR+PingFangSC-Regular";
+	src:url("9ca821d2-0000-0000-0000-000000000000.woff") format("woff");
+}
+.stl_07 {
+	font-size: 3em;
+	font-family: "TEGMKR+PingFangSC-Regular", "Times New Roman";
+	color: #FFFFFF;
+}
+.stl_08 {
+	line-height: 1.204em;
+}
+.stl_09 {
+	letter-spacing: 0.08em;
+}
+
+.ie .stl_09 {
+	letter-spacing: 3.84px;
+}
+@font-face {
+	font-family:"GJCOIV+ArialMT";
+	src:url("ae2830bb-0000-0000-0000-000000000000.woff") format("woff");
+}
+.stl_10 {
+	font-size: 1.166667em;
+	font-family: "GJCOIV+ArialMT";
+	color: #323232;
+}
+.stl_11 {
+	line-height: 1.117187em;
+}
+.stl_12 {
+	letter-spacing: -0.0002em;
+}
+
+.ie .stl_12 {
+	letter-spacing: -0.0028px;
+}
+.stl_13 {
+	font-size: 0.833333em;
+	font-family: "TEGMKR+PingFangSC-Regular", "Times New Roman";
+	color: #000000;
+}
+.stl_14 {
+	letter-spacing: 0em;
+}
+
+.ie .stl_14 {
+	letter-spacing: 0px;
+}
+.stl_15 {
+	font-size: 1.833333em;
+	font-family: "TEGMKR+PingFangSC-Regular", "Times New Roman";
+	color: #000000;
+}
+.stl_16 {
+	letter-spacing: 0.009em;
+}
+
+.ie .stl_16 {
+	letter-spacing: 0.12px;
+}
+.stl_17 {
+	letter-spacing: 0.027em;
+}
+
+.ie .stl_17 {
+	letter-spacing: 0.36px;
+}
+.stl_18 {
+	font-size: 0.833333em;
+	font-family: "TEGMKR+PingFangSC-Regular", "Times New Roman";
+	color: #323232;
+}
+.stl_19 {
+	letter-spacing: 0.022em;
+}
+
+.ie .stl_19 {
+	letter-spacing: 0.2933px;
+}
+.stl_20 {
+	letter-spacing: 0.008em;
+}
+
+.ie .stl_20 {
+	letter-spacing: 0.1067px;
+}
+.stl_21 {
+	letter-spacing: 0.038em;
+}
+
+.ie .stl_21 {
+	letter-spacing: 0.5067px;
+}
+.stl_22 {
+	letter-spacing: 0.071em;
+}
+
+.ie .stl_22 {
+	letter-spacing: 0.9467px;
+}
+.stl_23 {
+	letter-spacing: 0.03em;
+}
+
+.ie .stl_23 {
+	letter-spacing: 0.4px;
+}
+.stl_24 {
+	letter-spacing: 0.095em;
+}
+
+.ie .stl_24 {
+	letter-spacing: 1.2667px;
+}
+.stl_25 {
+	font-size: 2em;
+	font-family: "TEGMKR+PingFangSC-Regular", "Times New Roman";
+	color: #000000;
+}
+.stl_26 {
+	font-size: 0.916667em;
+	font-family: "TEGMKR+PingFangSC-Regular", "Times New Roman";
+	color: #000000;
+}
+.stl_27 {
+	font-size: 1.166667em;
+	font-family: "GJCOIV+ArialMT";
+	color: #323131;
+}
+.stl_28 {
+	font-size: 2.166667em;
+	font-family: "TEGMKR+PingFangSC-Regular", "Times New Roman";
+	color: #000000;
+}
+.stl_29 {
+	font-size: 1.166667em;
+	font-family: "GJCOIV+ArialMT";
+	color: #333332;
+}

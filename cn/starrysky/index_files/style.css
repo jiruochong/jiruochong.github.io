@@ -1,0 +1,537 @@
+sup {
+	vertical-align: baseline;
+	position: relative;
+	top: -0.4em;
+}
+sub {
+	vertical-align: baseline;
+	position: relative;
+	top: 0.4em;
+}
+a:link {text-decoration:none;}
+a:visited {text-decoration:none;}
+@media screen and (min-device-pixel-ratio:0), (-webkit-min-device-pixel-ratio:0), (min--moz-device-pixel-ratio: 0) {.stl_view{ font-size:10em; transform:scale(0.1); -moz-transform:scale(0.1); -webkit-transform:scale(0.1); -moz-transform-origin:top left; -webkit-transform-origin:top left; } }
+.layer { }.ie { font-size: 1pt; }
+.ie body { font-size: 12em; }
+@media print{.stl_view {font-size:1em; transform:scale(1);}}
+.grlink { position:relative;width:100%;height:100%;z-index:1000000; }
+.stl_01 {
+	position: absolute;
+	white-space: nowrap;
+}
+.stl_02 {
+	font-size: 1em;
+	line-height: 0.0em;
+	width: 71.5em;
+	height: 51em;
+	border-style: none;
+	display: block;
+	margin: 0em;
+}
+
+@supports(-ms-ime-align:auto) { .stl_02 {overflow: hidden;}}
+.stl_03 {
+	position: relative;
+}
+.stl_04 {
+	position: absolute;
+	left: 0em;
+	top: 0em;
+}
+.stl_05 {
+	position: relative;
+	width: 71.5em;
+}
+.stl_06 {
+	height: 5.1em;
+}
+.ie .stl_06 {
+	height: 51em;
+}
+@font-face {
+	font-family:"GFLHLP+ArialMT";
+	src:url("8a5bbd1e-0000-0000-0000-000000000000.woff") format("woff");
+}
+.stl_07 {
+	font-size: 1.166667em;
+	font-family: "GFLHLP+ArialMT";
+	color: #323232;
+}
+.stl_08 {
+	line-height: 1.117187em;
+}
+.stl_09 {
+	letter-spacing: -0.0002em;
+}
+
+.ie .stl_09 {
+	letter-spacing: -0.0028px;
+}
+@font-face {
+	font-family:"JAUNWQ+PingFangSC-Regular";
+	src:url("c784ac26-0000-0000-0000-000000000000.woff") format("woff");
+}
+.stl_10 {
+	font-size: 3em;
+	font-family: "JAUNWQ+PingFangSC-Regular";
+	color: #FFFFFF;
+}
+.stl_11 {
+	line-height: 1.204em;
+}
+.stl_12 {
+	letter-spacing: 0em;
+}
+
+.ie .stl_12 {
+	letter-spacing: 0px;
+}
+.stl_13 {
+	font-size: 2.5em;
+	font-family: "JAUNWQ+PingFangSC-Regular";
+	color: #323232;
+}
+.stl_14 {
+	font-size: 1.166667em;
+	font-family: "JAUNWQ+PingFangSC-Regular";
+	color: #000000;
+}
+.stl_15 {
+	letter-spacing: 0.152em;
+}
+
+.ie .stl_15 {
+	letter-spacing: 2.8373px;
+}
+.stl_16 {
+	letter-spacing: 0.089em;
+}
+
+.ie .stl_16 {
+	letter-spacing: 1.6613px;
+}
+.stl_17 {
+	letter-spacing: 0.08em;
+}
+
+.ie .stl_17 {
+	letter-spacing: 1.4933px;
+}
+@font-face {
+	font-family:"JMWCVU+PingFangSC-Light";
+	src:url("1072f73c-0000-0000-0000-000000000000.woff") format("woff");
+}
+.stl_18 {
+	font-size: 2.333333em;
+	font-family: "JMWCVU+PingFangSC-Light", "Times New Roman";
+	color: #FFFEFE;
+}
+.stl_19 {
+	font-size: 0.916667em;
+	font-family: "JAUNWQ+PingFangSC-Regular";
+	color: #FFFEFE;
+}
+.stl_20 {
+	letter-spacing: 0.022em;
+}
+
+.ie .stl_20 {
+	letter-spacing: 0.3227px;
+}
+.stl_21 {
+	letter-spacing: -0.002em;
+}
+
+.ie .stl_21 {
+	letter-spacing: -0.0293px;
+}
+.stl_22 {
+	letter-spacing: 0.051em;
+}
+
+.ie .stl_22 {
+	letter-spacing: 0.748px;
+}
+.stl_23 {
+	letter-spacing: 0.009em;
+}
+
+.ie .stl_23 {
+	letter-spacing: 0.132px;
+}
+.stl_24 {
+	letter-spacing: -0.01em;
+}
+
+.ie .stl_24 {
+	letter-spacing: -0.1467px;
+}
+.stl_25 {
+	font-size: 1.166667em;
+	font-family: "GFLHLP+ArialMT";
+	color: #FFFEFE;
+}
+.stl_26 {
+	letter-spacing: 0.01em;
+}
+
+.ie .stl_26 {
+	letter-spacing: 0.1467px;
+}
+.stl_27 {
+	letter-spacing: 0.014em;
+}
+
+.ie .stl_27 {
+	letter-spacing: 0.2051px;
+}
+.stl_28 {
+	letter-spacing: -0.005em;
+}
+
+.ie .stl_28 {
+	letter-spacing: -0.0733px;
+}
+.stl_29 {
+	letter-spacing: 0.018em;
+}
+
+.ie .stl_29 {
+	letter-spacing: 0.264px;
+}
+.stl_30 {
+	letter-spacing: -0.003em;
+}
+
+.ie .stl_30 {
+	letter-spacing: -0.044px;
+}
+.stl_31 {
+	font-size: 0.833333em;
+	font-family: "JAUNWQ+PingFangSC-Regular";
+	color: #323232;
+}
+.stl_32 {
+	letter-spacing: 0.019em;
+}
+
+.ie .stl_32 {
+	letter-spacing: 0.2533px;
+}
+.stl_33 {
+	letter-spacing: 0.046em;
+}
+
+.ie .stl_33 {
+	letter-spacing: 0.6133px;
+}
+.stl_34 {
+	font-size: 0.916667em;
+	font-family: "JAUNWQ+PingFangSC-Regular";
+	color: #323232;
+}
+.stl_35 {
+	letter-spacing: 0.053em;
+}
+
+.ie .stl_35 {
+	letter-spacing: 0.7773px;
+}
+.stl_36 {
+	letter-spacing: 0.02em;
+}
+
+.ie .stl_36 {
+	letter-spacing: 0.2933px;
+}
+.stl_37 {
+	font-size: 0.916667em;
+	font-family: "JAUNWQ+PingFangSC-Regular";
+	color: #000000;
+}
+.stl_38 {
+	font-size: 2em;
+	font-family: "JAUNWQ+PingFangSC-Regular";
+	color: #000000;
+}
+.stl_39 {
+	font-size: 1em;
+	font-family: "JAUNWQ+PingFangSC-Regular";
+	color: #000000;
+}
+.stl_40 {
+	letter-spacing: 0.185em;
+}
+
+.ie .stl_40 {
+	letter-spacing: 2.96px;
+}
+.stl_41 {
+	letter-spacing: 0.016em;
+}
+
+.ie .stl_41 {
+	letter-spacing: 0.256px;
+}
+.stl_42 {
+	letter-spacing: 0.082em;
+}
+
+.ie .stl_42 {
+	letter-spacing: 1.312px;
+}
+@font-face {
+	font-family:"KRIMER+PingFangSC-Medium";
+	src:url("c64b9ff9-0000-0000-0000-000000000000.woff") format("woff");
+}
+.stl_43 {
+	font-size: 0.833333em;
+	font-family: "KRIMER+PingFangSC-Medium";
+	color: #323232;
+}
+.stl_44 {
+	font-size: 0.75em;
+	font-family: "JAUNWQ+PingFangSC-Regular";
+	color: #000000;
+}
+.stl_45 {
+	letter-spacing: 0.123em;
+}
+
+.ie .stl_45 {
+	letter-spacing: 1.476px;
+}
+.stl_46 {
+	letter-spacing: 0.033em;
+}
+
+.ie .stl_46 {
+	letter-spacing: 0.44px;
+}
+.stl_47 {
+	font-size: 0.75em;
+	font-family: "JAUNWQ+PingFangSC-Regular";
+	color: #323232;
+}
+.stl_48 {
+	letter-spacing: 0.008em;
+}
+
+.ie .stl_48 {
+	letter-spacing: 0.096px;
+}
+.stl_49 {
+	letter-spacing: 0.007em;
+}
+
+.ie .stl_49 {
+	letter-spacing: 0.084px;
+}
+.stl_50 {
+	letter-spacing: 0.043em;
+}
+
+.ie .stl_50 {
+	letter-spacing: 0.5733px;
+}
+.stl_51 {
+	font-size: 0.833333em;
+	font-family: "JAUNWQ+PingFangSC-Regular";
+	color: #000000;
+}
+.stl_52 {
+	font-size: 1em;
+	font-family: "KRIMER+PingFangSC-Medium";
+	color: #323131;
+}
+.stl_53 {
+	font-size: 0.833333em;
+	font-family: "JAUNWQ+PingFangSC-Regular";
+	color: #323131;
+}
+.stl_54 {
+	letter-spacing: 0.106em;
+}
+
+.ie .stl_54 {
+	letter-spacing: 1.4133px;
+}
+.stl_55 {
+	letter-spacing: 0.066em;
+}
+
+.ie .stl_55 {
+	letter-spacing: 0.88px;
+}
+.stl_56 {
+	letter-spacing: 0.055em;
+}
+
+.ie .stl_56 {
+	letter-spacing: 0.7333px;
+}
+.stl_57 {
+	letter-spacing: 0.031em;
+}
+
+.ie .stl_57 {
+	letter-spacing: 0.4133px;
+}
+.stl_58 {
+	font-size: 1.166667em;
+	font-family: "GFLHLP+ArialMT";
+	color: #323131;
+}
+.stl_59 {
+	font-size: 0.5em;
+	font-family: "KRIMER+PingFangSC-Medium";
+	color: #000000;
+}
+.stl_60 {
+	font-size: 0.5em;
+	font-family: "JAUNWQ+PingFangSC-Regular";
+	color: #000000;
+}
+.stl_61 {
+	letter-spacing: 0.081em;
+}
+
+.ie .stl_61 {
+	letter-spacing: 0.648px;
+}
+.stl_62 {
+	font-size: 1.166667em;
+	font-family: "GFLHLP+ArialMT";
+	color: #333332;
+}
+.stl_63 {
+	font-size: 0.833333em;
+	font-family: "KRIMER+PingFangSC-Medium";
+	color: #000000;
+}
+.stl_64 {
+	font-size: 0.666667em;
+	font-family: "JAUNWQ+PingFangSC-Regular";
+	color: #000000;
+}
+.stl_65 {
+	font-size: 1.166667em;
+	font-family: "KRIMER+PingFangSC-Medium";
+	color: #000000;
+}
+.stl_66 {
+	letter-spacing: 0.138em;
+}
+
+.ie .stl_66 {
+	letter-spacing: 1.472px;
+}
+.stl_67 {
+	letter-spacing: 0.039em;
+}
+
+.ie .stl_67 {
+	letter-spacing: 0.416px;
+}
+.stl_68 {
+	letter-spacing: 0.133em;
+}
+
+.ie .stl_68 {
+	letter-spacing: 1.4187px;
+}
+.stl_69 {
+	letter-spacing: 0.003em;
+}
+
+.ie .stl_69 {
+	letter-spacing: 0.048px;
+}
+.stl_70 {
+	letter-spacing: 0.002em;
+}
+
+.ie .stl_70 {
+	letter-spacing: 0.032px;
+}
+.stl_71 {
+	font-size: 0.916667em;
+	font-family: "KRIMER+PingFangSC-Medium";
+	color: #000000;
+}
+.stl_72 {
+	letter-spacing: 0.012em;
+}
+
+.ie .stl_72 {
+	letter-spacing: 0.176px;
+}
+.stl_73 {
+	letter-spacing: 0.124em;
+}
+
+.ie .stl_73 {
+	letter-spacing: 1.488px;
+}
+.stl_74 {
+	letter-spacing: 0.177em;
+}
+
+.ie .stl_74 {
+	letter-spacing: 2.124px;
+}
+.stl_75 {
+	letter-spacing: 0.059em;
+}
+
+.ie .stl_75 {
+	letter-spacing: 0.708px;
+}
+.stl_76 {
+	font-size: 1.166667em;
+	font-family: "JAUNWQ+PingFangSC-Regular";
+	color: #323232;
+}
+.stl_77 {
+	font-size: 1.166667em;
+	font-family: "JAUNWQ+PingFangSC-Regular";
+	color: #1F5D9E;
+}
+.stl_78 {
+	font-size: 3em;
+	font-family: "KRIMER+PingFangSC-Medium";
+	color: #000000;
+}
+.stl_79 {
+	font-size: 1.416667em;
+	font-family: "KRIMER+PingFangSC-Medium";
+	color: #000000;
+}
+.stl_80 {
+	letter-spacing: -0.0742em;
+}
+
+.ie .stl_80 {
+	letter-spacing: -1.3842px;
+}
+.stl_81 {
+	letter-spacing: 0.013em;
+}
+
+.ie .stl_81 {
+	letter-spacing: 0.208px;
+}
+.stl_82 {
+	letter-spacing: 0.029em;
+}
+
+.ie .stl_82 {
+	letter-spacing: 0.464px;
+}
+.stl_83 {
+	letter-spacing: 0.001em;
+}
+
+.ie .stl_83 {
+	letter-spacing: 0.016px;
+}
