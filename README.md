@@ -36,8 +36,6 @@ I created an illustrative arts website called "Critical Position Reader" for rea
 
 #### Current Research:
 Currently, I am conducting research on the proposition: "Can art surpass the 'enframing' brought by artificial intelligence and promote 'unconcealment'?"
-This Markdown code will display the text in the intended format with appropriate headings, bullet points, and hyperlinks.
-
 
 ### Lu Xun Academy of Fine Arts
 
