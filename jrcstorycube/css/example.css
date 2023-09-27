@@ -1,0 +1,27 @@
+body {
+	background: white;
+	text-align: center;
+	font-size: 2em;
+	color: white;
+	font-family: sans-serif;
+	line-height: 200px;
+}
+
+body.front {
+	background: purple;
+}
+body.back {
+	background: blue;
+}
+body.top {
+	background: red;
+}
+body.left {
+	background: brown;
+}
+body.right {
+	background: orange;
+}
+body.bottom {
+	background: navy;
+}

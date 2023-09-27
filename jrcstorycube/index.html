@@ -1,0 +1,31 @@
+<!DOCTYPE html>
+<html>
+<head>
+	<title>NewsCube Examples</title>
+</head>
+<body>
+
+<div id="newscube">
+	
+</div>
+
+<script type="text/javascript" src="./core/dependencies/threejs/3d.min.js"></script>
+<script type="text/javascript" src="./core/dependencies/threejs/OrbitControls.js"></script>
+<script type="text/javascript" src="./core/cube.js"></script>
+
+<script type="text/javascript">
+	
+	var faces = ['../fairy/index.html', '../starrysky/index.html', '../wonder/index.html', '../lizard/index.html', 'https://readymag.com/u3481658947/4244225/', 'https://youtu.be/hiIpT4O_VkM?si=3-kZxa0oZoD2vlGy'];
+
+	var callback = function(f) {
+		console.log(f);
+	}
+
+	var newsCube = new NewsCube('newscube', callback, faces);
+
+	newsCube.start();
+
+</script>
+
+</body>
+</html>
